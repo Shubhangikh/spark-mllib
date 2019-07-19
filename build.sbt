@@ -1,4 +1,4 @@
-name := "TweetAnalysis"
+name := "SparkMLlib"
 
 version := "0.1"
 
